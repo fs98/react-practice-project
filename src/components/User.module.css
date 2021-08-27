@@ -1,0 +1,7 @@
+li {
+  border: thin solid rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  list-style-type: none; 
+  font-weight: 500;
+  margin-bottom: 15px;
+}
